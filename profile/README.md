@@ -3,14 +3,9 @@
 <h2>✅ Официальные зеркала вавада vavada на компьютер и телефон</h2>
 
 <br />
-<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank">
-  <img
-    src="https://mistralaiblackforestprod.blob.core.windows.net/images/blackforest/c046/eac0/-3af/2-4fc4-9983-64c10c81af7f/image.jpg?se=2026-03-15T16%3A19%3A07Z&sp=r&sv=2026-02-06&sr=b&sig=iRYAExa4eOATB7AzWqosH8%2BFjbaoFkSYNvr2ee%2B/yNQ%3D"
-    alt="Перейти в VAVADA"
-    width="800"
-  />
-</a>
+<img src="https://img.shields.io/badge/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8_%D0%B2_VAVADA-8A2BE2?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=8A2BE2" alt="Перейти в VAVADA" width="800" style="font-weight: bold;" />
 <br />
+
 
 
 

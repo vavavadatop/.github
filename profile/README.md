@@ -3,15 +3,29 @@
 <h2>✅ Официальные зеркала вавада vavada на компьютер и телефон</h2>
 
 <br />
-<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank">
-  <img
-    src="https://img.shields.io/badge/%D0%BD%D0%B0%D0%B6%D0%BC%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B0_%D0%BD%D0%B0_VAVADA-5D87BF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=5D87BF"
-    alt="Нажми для перехода на VAVADA"
-    width="800"
-    style="font-weight: bold;"
-  />
+<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank" style="text-decoration: none;">
+  <div style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #E91E63;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    width: fit-content;
+  ">
+    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="fill: #5D87BF; margin-right: 10px;" width="24" height="24">
+      <title>V</title>
+      <path d="M15.583 23.4965c.0673.1924-.0435.3484-.2472.3484h-6.262c-.4075 0-.8502-.3113-.9881-.6947L.0426.7837C-.105.3925.149.1152.5276.1599l6.393.6158c.4056.0391.8441.383.9787.7675l7.6837 21.9533zM23.4736.1599l-6.393.6159c-.4055.0391-.8436.3832-.9775.7678l-3.8275 10.9895 3.6784 10.5098L23.9586.7837c.1378-.3834-.0795-.663-.485-.6238z"/>
+    </svg>
+    Нажми для перехода на VAVADA
+  </div>
 </a>
 <br />
+
 
 
 

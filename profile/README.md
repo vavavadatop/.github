@@ -2,10 +2,26 @@
 <meta name="author" content="VAVADA zerkalo">
 <h2>✅ Официальные зеркала вавада vavada на компьютер и телефон</h2>
 <br />
-<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank">
-<img src="https://img.shields.io/badge/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8%20%D0%B2%20VAVADA-8A2BE2?style=for-the-badge" />
+<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank" style="text-decoration: none;">
+  <button style="
+    background-color: #8A2BE2;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+  "
+  onmouseover="this.style.transform='scale(1.05)'"
+  onmouseout="this.style.transform='scale(1)'">
+    ПЕРЕЙТИ В VAVADA
+  </button>
 </a>
 <br />
+
 
 <h2>🧩 VAVADA официальный сайт: зеркало 2026</h2>
 <br><strong>Теги:</strong> VAVADA зеркало, VAVADA зеркало рабочее на сегодня, вавада зеркало, старая версия сайта

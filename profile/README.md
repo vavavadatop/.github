@@ -1,9 +1,15 @@
 <meta name="description" content="✅ Рабочее зеркало VAVADA на сегодня - получите доступ к платформе с компьютера или в приложении телефона.">
 <meta name="author" content="VAVADA zerkalo">
 <h2>✅ Официальные зеркала вавада vavada на компьютер и телефон</h2>
+
 <br />
-<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8_%D0%B2_VAVADA-8A2BE2?style=for-the-badge&logo=playstation&logoColor=white&labelColor=8A2BE2" alt="Перейти в VAVADA" style="font-weight: bold; transform: scale(1.2);" />
+<a href="https://vsecasinoinfo.sbs/vs/vavada" target="_blank">
+  <img
+    src="https://img.shields.io/badge/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8_%D0%B2_VAVADA-8A2BE2?style=for-the-badge&logo=playstation&logoColor=white&labelColor=8A2BE2"
+    alt="Перейти в VAVADA"
+    width="800"
+    style="font-weight: bold;"
+  />
 </a>
 <br />
 
